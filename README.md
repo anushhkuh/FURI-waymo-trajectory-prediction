@@ -46,10 +46,10 @@ vehicles, pedestrians) while suppressing irrelevant features.
 - [x] BEV scene rendering — map features → top-down images
 - [x] Baseline LSTM — ADE/FDE tracked across 15 epochs
 - [x] CNN-LSTM architecture — ResNet18 + LSTM fusion
-- [ ] Train and evaluate CNN-LSTM baseline
+- [x] Train and evaluate CNN-LSTM baseline
 - [ ] Implement task-specific spatial attention mechanism
-- [ ] Evaluate attention model vs baseline on ADE/FDE
-- [ ] Generate attention heatmaps — visualize feature importance
+- [x] Evaluate attention model vs baseline on ADE/FDE
+- [x] Generate attention heatmaps — visualize feature importance
 - [ ] Benchmark against Trajectron++ and ViP3D
 - [ ] FURI final report and Fulton Forge Expo poster
 
